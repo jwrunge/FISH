@@ -20,7 +20,7 @@
         <a name='volunteer'><h2>How people help FISH</h2></a>
         <p>FISH depends on the donation of nonperishable food items as well as monetary donations from individuals, churches, local civic organizations, and businesses.</p>
         <p><strong>All FISH workers are volunteers.</strong> There is minimal administrative expense. On average, 94% of funds expended are used to feed the hungry.</p>
-        <p><strong>Want to help?</strong> Give us a call at <a class='d-inline-block' href='tel:309-341-2845'>309-341-2845</a> or <a href='mailto:FISHofGalesburg@centurylink.net'>send us an email</a> for:</p>
+        <p><strong>Want to help?</strong> Give us a call at <a class='d-inline-block' href='tel:309-341-2845'>309-341-2845</a> or <a href='mailto:fish@fishofgalesburg.org'>send us an email</a> for:</p>
         <ul>
             <li>Volunteer opportunites</li>
             <li>Food drives or collections</li>

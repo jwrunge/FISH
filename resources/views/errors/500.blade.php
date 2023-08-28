@@ -8,7 +8,7 @@
         </div>
 
         <div class='row'>
-            <p>Something isn't set up right on our end! Please <a href='mailto:FISHofGalesburg@centurylink.net'>contact us</a> and let us know what isn't working. We'll fix it!</p>
+            <p>Something isn't set up right on our end! Please <a href='mailto:fish@fishofgalesburg.org'>contact us</a> and let us know what isn't working. We'll fix it!</p>
             @if($exception->getMessage())
                 <p>Specifics: {{ $exception->getMessage() }}</p>
             @endif
