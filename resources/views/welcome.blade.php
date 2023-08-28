@@ -15,6 +15,7 @@
                     <a href='assistance'><button type='button' class='btn'>Get Assistance</button></a>
                     <a href='http://paypal.me/fishofgalesburg' target='_blank'><button type='button' class='btn'>Donate <img class='d-inline mx-0' style='max-width: 1.5em; max-height: 1.5em;' src='images/ppcom-white.svg'/></button></a>
                     <a href='about#volunteer'><button type='button' class='btn'>Volunteer</button></a>
+                    <div class="financials">For financial information, contact <a href="https://web.archive.org/web/20230610073933/mailto:fish@fishofgalesburg.org">fish@fishofgalesburg.org.</a></div>
                 </div>
             </div>
         </div>
